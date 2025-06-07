@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently leading the development of <a href="https://infithra.com" target="_blank"><img src="https://infithra.com/assets/images/infinthra-whitetext-logo.svg" alt="Infithra" height="20" style="margin-left:5px; vertical-align:middle;"/></a> — a scalable, multi-tenant HRMS platform focused on **employee, payroll, leave, and time management**.
+- 🔭 I'm currently leading the development of <a href="https://infithra.com" target="_blank"><img src="https://infithra.com/assets/images/infinthra-whitetext-logo.svg" alt="infithra | HR System for Payroll and Processess" height="20" style="margin-left:5px; vertical-align:middle;"/></a> — a scalable, multi-tenant HRMS platform focused on **employee, payroll, leave, and time management**.
 - 🧱 I specialize in **solution architecture** and designing scalable backend infrastructures for cloud-native applications.
 - ☁️ Deeply integrated with **AWS** (S3, Cognito, API Gateway, EC2, SES, CloudWatch, IAM).
 - 🧠 I thrive on **system design**, **API optimization**, **DB query tuning**, and **building reliable job queues** with tools like **BullMQ**.
